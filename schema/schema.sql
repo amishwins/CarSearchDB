@@ -1,3 +1,5 @@
+/* blah blah */
+
 drop table if exists `searchResult`;
 drop table if exists `carOption`;
 drop table if exists `car`;
