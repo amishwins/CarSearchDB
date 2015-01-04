@@ -8,6 +8,8 @@ class DataAccess:
         self.config = {
           'user': 'dev',
           'password': 'willalexseethis',
+          #'host': '192.168.0.239',
+          #'port': '3306',
           'host': 'localhost',
           'database': 'cars',
           'raise_on_warnings': True,
